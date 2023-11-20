@@ -13,12 +13,20 @@ Directorio: ..\CmakeProject\1_HelloWord
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 d-----        20/11/2023     20:33                build
+
 d-----        20/11/2023     23:24                CMakeFiles
+
 -a----        20/11/2023     23:24          17023 CMakeCache.txt
+
 -a----        20/11/2023     20:03            657 CMakeLists.txt
+
 -a----        20/11/2023     23:24           1658 cmake_install.cmake
+
 -a----        20/11/2023     20:03             91 main.cc
+
 -a----        20/11/2023     23:24           5545 Makefile
+
+
 
 3.) cmake --build --> Dentro de la carpeta del proyecto
     --> CmakeProject\1_HelloWord> cmake --build .
