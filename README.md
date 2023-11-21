@@ -1,13 +1,14 @@
 # CmakeProject
 Learn to master modern CMake Projects, Unit Tests, Continuous Tools and more to use in your daily C/C++ workflow!
 
-0.) Crear los archivos fuentes y el CMakeFile
+## 0.) Crear los archivos fuentes y el CMakeFile
 
-1.) mkdir build --> Creamos la carpeta build dentro de la carpeta del proyecto.
+## 1.) mkdir build --> Creamos la carpeta build dentro de la carpeta del proyecto.
 
-2.) Ejecutamos el comando cmake para generar los archivos Build y la configuración del proyecto.
+## 2.) Ejecutamos el comando cmake para generar los archivos Build y la configuración del proyecto.
+```bash
     --> CmakeProject\1_HelloWord> cmake -G "MinGW Makefiles" .
-
+```
 Directorio: ..\CmakeProject\1_HelloWord
 
 Mode                 LastWriteTime         Length Name
